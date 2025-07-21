@@ -1,0 +1,7 @@
+black
+dotenv
+matplotlib
+numpy
+torch
+torchvision
+torchaudio
