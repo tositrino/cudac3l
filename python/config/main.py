@@ -8,7 +8,7 @@ import os
 # APP standard variables
 
 APP_VERNAME = "cudac3l"
-APP_VERID = "0.1.0"
+APP_VERID = "0.1.1"
 APP_VERINFO = "cuda.cccl tests"
 APP_RELDATE = "2025/07/25"
 APP_RELINFO = "first!"

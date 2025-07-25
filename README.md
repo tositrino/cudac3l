@@ -9,7 +9,7 @@ cudac3l - cuda.cccl testing and benchmarking project
 
   | cudac3l ||
   |:--|:--|
-  | file version  | 0.1.0 |
+  | file version  | 0.1.1 |
   | file created  | 2025/07/20 |
   | last change   | 2025/07/25 |
   
