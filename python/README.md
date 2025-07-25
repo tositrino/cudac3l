@@ -17,31 +17,14 @@ On windows you might want to use
   - scoop [8]
   - chocolatey [9]
 
- the project
-on a macos system. The following instruction should work on all macos versions > 10.11 (catalina)
-We assume you are familiar with your macos installation and you already have homebrew or macports
-installed to install non apple software. If not please see the following links:
-
-
 ### System Requirements
 
-  - git
-  - python >=3.10
-  
-  Note: see requirements.txt for further details
+  see above for required applications and requirements.txt for further details about
+  required python libraries and modules
 
-## For Developers: Standard Software 
-  The following software can be downloaded and installed using the description provided by its manufacturer:
-
-  - zed editor 
-    
-
-  - Microsoft visual studio code 
-    
-  
 #### Python Adjustments
 
-wallstreetcrawler uses black as code formatter - to be able use it, it must be installed into the
+cudac3l uses black as code formatter - to be able use it, it must be installed into the
 main python installation. To do so, run the following commands in powershell after having installed python:
 ```
   > pip install --upgrade pip black
@@ -81,10 +64,8 @@ to setup the project just clone it from the git repository
 
 ### Usage Examples
 ```
-  # download and convert NASDAQ data
-  python __main__.py --nasdaq_download
-  # crawl thoru reddit posts
-  python __main__.py --crawl
+  # run tests
+  python __main__.py --c3ltest
 ```
 
 ## references

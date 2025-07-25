@@ -10,7 +10,7 @@ import os
 APP_VERNAME = "cudac3l"
 APP_VERID = "0.1.0"
 APP_VERINFO = "cuda.cccl tests"
-APP_RELDATE = "2025/07/21"
+APP_RELDATE = "2025/07/25"
 APP_RELINFO = "first!"
 APP_COPYRIGHT = "copyright (c) 2025 by development at ths dot one"
 APP_LICENSE = "GPL3"
